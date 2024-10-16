@@ -124,7 +124,6 @@ C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfoInputs.cache
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.AssemblyInfo.cs
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.csproj.CoreCompileInputs.cache
-C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\staticwebassets.development.json
@@ -145,3 +144,5 @@ C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\bin\Debug\net8.0\Scrutor.
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
 C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\obj\Debug\net8.0\ToDoApp.sourcelink.json
+C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\bin\Debug\net8.0\SharedClassLibrary.dll
+C:\Users\Elez Kadrijaj\Desktop\ToDoApp\ToDoApp\ToDoApp\bin\Debug\net8.0\SharedClassLibrary.pdb

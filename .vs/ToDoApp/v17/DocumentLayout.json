@@ -3,12 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\contract\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\contract\\iuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\dtos\\userdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\dtos\\serviceresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\dtos\\serviceresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\dtos\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\migrations\\20241011221141_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\migrations\\20241011221141_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\todoapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\todoapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\todoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\sharedclasslibrary\\sharedclasslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF4B04DC-C297-422C-B9BD-46D4A33AAB05}|SharedClassLibrary\\SharedClassLibrary.csproj|solutionrelative:sharedclasslibrary\\sharedclasslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{730EFD20-B982-4052-B6EA-4E5224881F10}|ToDoApp\\ToDoApp.csproj|c:\\users\\elez kadrijaj\\desktop\\todoapp\\todoapp\\todoapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 239,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +106,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserDetailsDTO.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\DTOS\\UserDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserDetailsDTO.cs",
+              "RelativeToolTip": "SharedClassLibrary\\DTOS\\UserDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:20:23.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ToDoApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:14:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T14:12:37.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "ToDoApp\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowKgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:06:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\appsettings.json",
+              "RelativeToolTip": "ToDoApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T14:08:58.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserSession.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\DTOS\\UserSession.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserSession.cs",
+              "RelativeToolTip": "SharedClassLibrary\\DTOS\\UserSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:05:26.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceResponses.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\ServiceResponses.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\DTOS\\ServiceResponses.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\ServiceResponses.cs",
+              "RelativeToolTip": "SharedClassLibrary\\DTOS\\ServiceResponses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:04:30.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\Contract\\IUserAccount.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\Contract\\IUserAccount.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\Contract\\IUserAccount.cs",
+              "RelativeToolTip": "SharedClassLibrary\\Contract\\IUserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:00:49.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserDTO.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\DTOS\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\UserDTO.cs",
+              "RelativeToolTip": "SharedClassLibrary\\DTOS\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:02:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\DTOS\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\DTOS\\LoginDTO.cs",
+              "RelativeToolTip": "SharedClassLibrary\\DTOS\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:03:43.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Program.cs",
+              "RelativeToolTip": "ToDoApp\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:03:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ToDoApp.http",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.http",
+              "RelativeDocumentMoniker": "ToDoApp\\ToDoApp.http",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.http",
+              "RelativeToolTip": "ToDoApp\\ToDoApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-15T14:10:24.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20241011221141_Identity.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\20241011221141_Identity.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Migrations\\20241011221141_Identity.cs",
@@ -63,19 +275,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Program.cs",
-              "RelativeToolTip": "ToDoApp\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ToDoApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "ToDoApp\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T22:03:07.832Z"
+              "WhenOpened": "2024-10-15T13:07:31.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
+              "Title": "ToDoApp",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+              "RelativeDocumentMoniker": "ToDoApp\\ToDoApp.csproj",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\ToDoApp.csproj",
+              "RelativeToolTip": "ToDoApp\\ToDoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T13:34:35.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SharedClassLibrary",
+              "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\SharedClassLibrary.csproj",
+              "RelativeDocumentMoniker": "SharedClassLibrary\\SharedClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\SharedClassLibrary\\SharedClassLibrary.csproj",
+              "RelativeToolTip": "SharedClassLibrary\\SharedClassLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T14:01:43.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Data\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Data\\ApplicationUser.cs",
@@ -87,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Data\\DataContext.cs",
@@ -95,11 +334,12 @@
               "RelativeToolTip": "ToDoApp\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T21:56:56.736Z"
+              "WhenOpened": "2024-10-11T21:56:56.736Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "20241010212518_ToDoItemMigration.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\20241010212518_ToDoItemMigration.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Migrations\\20241010212518_ToDoItemMigration.cs",
@@ -110,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "20241010212150_ToDoItemMigration.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\20241010212150_ToDoItemMigration.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Migrations\\20241010212150_ToDoItemMigration.cs",
@@ -121,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "20241010211752_ToDoMigration.cs",
               "DocumentMoniker": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Migrations\\20241010211752_ToDoMigration.cs",
               "RelativeDocumentMoniker": "ToDoApp\\Migrations\\20241010211752_ToDoMigration.cs",

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using SharedClassLibrary.Contract;
 using Swashbuckle.AspNetCore.Filters;
 using System.Text;
 using ToDoApp.Data;
@@ -54,6 +55,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IUserAccount, AccountRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
