@@ -1040,6 +1040,9 @@
         }
       },
       "SharedClassLibrary/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Cors": "2.2.0"
+        },
         "runtime": {
           "SharedClassLibrary.dll": {
             "assemblyVersion": "1.0.0",

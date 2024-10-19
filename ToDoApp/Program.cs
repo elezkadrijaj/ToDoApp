@@ -56,6 +56,18 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUserAccount, AccountRepository>();
+// Configure CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowSpecificOrigin", // Consistent naming
+        builder =>
+        {
+            builder.WithOrigins("http://localhost:5173") // React app URL
+                   .AllowAnyHeader()
+                   .AllowAnyMethod();
+        });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -66,12 +78,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors("AllowSpecificOrigin"); // Correct CORS policy name
 app.UseAuthentication();
 app.UseAuthorization();
-
-app.UseCors("AllowReactApp");
-
 app.MapControllers();
-
 app.Run();
