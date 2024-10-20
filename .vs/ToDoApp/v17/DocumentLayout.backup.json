@@ -54,8 +54,7 @@
               "RelativeToolTip": "ToDoApp\\ToDoApp.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-19T20:15:47.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T20:15:47.825Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "ToDoApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T22:30:46.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T22:30:46.3Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "ToDoApp\\Program.cs",
               "ToolTip": "C:\\Users\\Elez Kadrijaj\\Desktop\\ToDoApp\\ToDoApp\\ToDoApp\\Program.cs",
               "RelativeToolTip": "ToDoApp\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAIwE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T22:05:45.53Z",
               "EditorCaption": ""
@@ -93,8 +91,7 @@
               "RelativeToolTip": "ToDoApp\\Controllers\\ToDoItemsController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAIwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:17:00.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T20:17:00.328Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "ToDoApp\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:14:26.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T20:14:26.023Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "ToDoApp\\Entities\\ToDoItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T20:09:35.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T20:09:35.19Z"
             }
           ]
         }
